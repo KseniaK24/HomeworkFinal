@@ -1,0 +1,15 @@
+C:\Users\Ксения\Desktop\Homework_final_Iqr\bin\Debug\net6.0\Homework_final_Iqr.exe
+C:\Users\Ксения\Desktop\Homework_final_Iqr\bin\Debug\net6.0\Homework_final_Iqr.deps.json
+C:\Users\Ксения\Desktop\Homework_final_Iqr\bin\Debug\net6.0\Homework_final_Iqr.runtimeconfig.json
+C:\Users\Ксения\Desktop\Homework_final_Iqr\bin\Debug\net6.0\Homework_final_Iqr.dll
+C:\Users\Ксения\Desktop\Homework_final_Iqr\bin\Debug\net6.0\Homework_final_Iqr.pdb
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.csproj.AssemblyReference.cache
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.AssemblyInfoInputs.cache
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.AssemblyInfo.cs
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.dll
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\refint\Homework_final_Iqr.dll
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.pdb
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\Homework_final_Iqr.genruntimeconfig.cache
+C:\Users\Ксения\Desktop\Homework_final_Iqr\obj\Debug\net6.0\ref\Homework_final_Iqr.dll
